@@ -1,0 +1,146 @@
+.arancione {
+	color: orange;
+	font-family: Impact;
+	text-align: center;
+}  
+
+
+
+input{
+	margin-top: 15px;
+	margin-left: 245px;
+}
+
+input, p{
+	font-weight: bold;
+}
+
+#paragrafi {
+	float: left;
+	width: 200px;
+}
+
+#cane{
+	float: right;
+	padding-right: 60px;
+}
+
+#footer {
+	position: fixed;
+	bottom: 10px;
+}
+
+
+#cane .preferito {
+	font-size: 60px;
+}
+
+p{
+	color: rgb(85, 91, 101);
+	font-family:  courier;
+	font-size: 160%;
+}
+
+header{
+    color:rgb(238, 238, 238);
+	background-color: rgb(57, 62, 70);
+    font-family:courier;
+    font-size: 16%;
+	margin-top: 1%;
+	margin-left: 43%;
+    
+    
+}
+
+a{
+	text-decoration: none;
+	color: rgb(34, 40, 49);
+	font-size: 20px;
+}
+
+q{
+	display: flex;
+	color: rgba(57, 62, 70);
+	font-family:  courier;
+	font-size: 160%;
+	text-align: left;
+	margin-top: 2%;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+b{
+	color: rgba(57, 62, 70);
+	font-family:  courier;
+	font-size: 160%;
+	padding-top: 5%;
+	background-color: rgb(238, 238, 238);
+	text-align: center;
+	font-size: 25px;
+}
+
+d{
+	padding-top: 20px;
+	margin-top: -400px;
+	color: rgb(0, 0, 0);
+	font-family:  courier;
+	font-size: 45px;
+}
+
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Montserratt', sans-serif;
+}
+
+li{
+	font-family: 'Montserratt', sans-serif;
+	list-style: none;
+	margin: 0 20px;
+	padding: 15px;
+	height: 50px;
+	border-radius: 30px;
+	transition: all 0.5s ease-in-out;
+}
+
+li:hover{
+	background-color: antiquewhite;
+}
+
+z{
+	color: rgba(214, 90, 49);
+	font-family:  courier;
+	font-size: 160%;
+}
+
+.cont:hover{
+	background-color: bisque;
+
+}
+
+
+
+.lista{
+	height: 65px;
+	display: flex;
+	justify-content: center;
+	margin-top: 1%;
+	background-color: rgb(214, 90, 49);
+	padding: 5px;
+	border-radius: 75px;
+	box-shadow: 1px 1px 5px rgb(238, 238, 238);
+}
+
+
+
+
+body {
+	background-color: rgba(34, 40, 49);
+	
+}
+
+head {
+	text-align: center;
+}
